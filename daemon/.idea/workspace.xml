@@ -14,7 +14,7 @@
     <file path="/ProcessExitThread.java" changelist="c5dbb87e-8a26-4e49-9b2b-db9803f8ae54" time="1458542971288" ignored="false" />
     <file path="$PROJECT_DIR$/../zhejiang/shaoxing/shaoxing/shaoxing_2014_cisp/WebRoot/acceptplatform/eventImage.jsp" changelist="c5dbb87e-8a26-4e49-9b2b-db9803f8ae54" time="1458289990493" ignored="false" />
     <file path="/eventImage.jsp" changelist="c5dbb87e-8a26-4e49-9b2b-db9803f8ae54" time="1458289853513" ignored="false" />
-    <file path="/Dummy.txt" changelist="c5dbb87e-8a26-4e49-9b2b-db9803f8ae54" time="1458716857760" ignored="false" />
+    <file path="/Dummy.txt" changelist="c5dbb87e-8a26-4e49-9b2b-db9803f8ae54" time="1458717072748" ignored="false" />
     <file path="/panel.java" changelist="c5dbb87e-8a26-4e49-9b2b-db9803f8ae54" time="1458291682154" ignored="false" />
     <file path="/SysPanel.java" changelist="c5dbb87e-8a26-4e49-9b2b-db9803f8ae54" time="1458291963066" ignored="false" />
     <file path="/ProcessPanel.java" changelist="c5dbb87e-8a26-4e49-9b2b-db9803f8ae54" time="1458522058844" ignored="false" />
@@ -152,7 +152,7 @@
       <file leaf-file-name="log4j.properties" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/file/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="51" selection-start="452" selection-end="452" vertical-scroll-proportion="0.22058824">
+            <state line="14" column="67" selection-start="365" selection-end="365" vertical-scroll-proportion="0.14705883">
               <folding />
             </state>
           </provider>
@@ -313,6 +313,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -462,12 +463,20 @@
       <created>1458716861917</created>
       <updated>1458716861917</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test1">
+      <created>1458716968780</created>
+      <updated>1458716968780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test1">
+      <created>1458717077941</created>
+      <updated>1458717077941</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -653,7 +662,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/file/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="51" selection-start="452" selection-end="452" vertical-scroll-proportion="0.22058824">
+        <state line="14" column="67" selection-start="365" selection-end="365" vertical-scroll-proportion="0.14705883">
           <folding />
         </state>
       </provider>
